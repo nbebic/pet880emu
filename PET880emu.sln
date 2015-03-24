@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PET880emu", "PET880emu\PET880emu.csproj", "{D4C7DBA5-801F-4829-B0B2-09317DD34F50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PET880asm", "PET880asm\PET880asm.csproj", "{8DAC74B4-7461-4227-A402-4163D46B03CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D4C7DBA5-801F-4829-B0B2-09317DD34F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4C7DBA5-801F-4829-B0B2-09317DD34F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4C7DBA5-801F-4829-B0B2-09317DD34F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DAC74B4-7461-4227-A402-4163D46B03CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DAC74B4-7461-4227-A402-4163D46B03CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DAC74B4-7461-4227-A402-4163D46B03CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DAC74B4-7461-4227-A402-4163D46B03CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
